@@ -1,0 +1,2 @@
+# Minecraft-Diamond-Mining-Datapack-for-TikTok-Interactive-Stream
+A concise datapack minigame designed for Minecraft interactive streams on TikTok and Tikfinity. This video showcases the mechanics and gameplay. It incorporates custom-edited plugins and mods (EconomyShopGUI and SellGUI). Compatible with Minecraft 1.20.1 and later. To install, create a world, add the datapack to the world, and execute /reload.
