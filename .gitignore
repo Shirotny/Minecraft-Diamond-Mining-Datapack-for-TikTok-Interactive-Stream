@@ -1,1 +1,16 @@
+# Minecraft-related ignores
+*.log
+crash-reports/
+saves/
+datapacks/*.zip  # Ignore zips if you zip for distribution
 
+# OS/IDE ignores
+.DS_Store
+Thumbs.db
+*.tmp
+.vscode/
+.idea/
+
+# General
+*.class
+target/
