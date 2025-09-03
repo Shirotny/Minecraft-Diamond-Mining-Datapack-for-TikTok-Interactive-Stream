@@ -18,6 +18,7 @@ A simple concise datapack minigame designed for Minecraft interactive streams on
 - Works best on servers or singleplayer for TikTok streams.
 - Provided Plugins and Needed Mods
 
+
 ## Compatibility
 - Minecraft Java Edition 1.20.1+.
 - Tested on vanilla with mods; may need adjustments for other versions.
