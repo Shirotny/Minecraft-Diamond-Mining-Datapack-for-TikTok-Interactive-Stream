@@ -16,7 +16,8 @@ A simple concise datapack minigame designed for Minecraft interactive streams on
 - Start the minigame with pre-load functions.
 - Mine blocks > sell > upgrade to a better pickaxe > mine diamonds easily > win!
 - Works best on servers or singleplayer for TikTok streams.
-- Provided Plugins and Needed Mods
+- Provided plugins and needed mods
+- Provided tikfinity profile
 
 
 ## Compatibility
